@@ -1,5 +1,8 @@
 {
   "name": "rpss",
-  "version": "0.0.1",
-  "dependencies": {}
+  "version": "0.0.2",
+  "dependencies": {
+    "ejs":">=0.4.3",
+    "mongodb":">=0.9.7"
+  }
 }
